@@ -81,7 +81,7 @@ class DATABASE_CONFIG {
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'user',
+		'login' => 'use',
 		'password' => 'password',
 		'database' => 'test_database_name',
 		'prefix' => '',
